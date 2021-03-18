@@ -24,6 +24,7 @@ Esta seção da documentação tem o objetivo de ajudá-lo a começar a operar a
 | [Tabelas](tabelas-int)                                  | Como trabalhar com tabelas interativas.                      |
 | [Minha conta](minha-conta)                              | Como configurar minha conta?                                 |
 | [Minha página](minha-página)                            | Como visualizar informações pessoais e dashboard.            |
+| [Plugin BENCHMARKING e CDIO](plugin-benchmarking-cdio)  | Como trabalhar com o plugin do projeto.                      |
 
 ## 5 etapas rápidas para começar
 
