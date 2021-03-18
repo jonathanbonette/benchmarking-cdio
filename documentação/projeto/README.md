@@ -39,7 +39,7 @@ Também, você pode clicar no botão verde **+ Projeto** diretamente na tela ini
 - Digite um **nome** para seu projeto e clique no botão azul **Criar**.
 - As **Configurações avançadas** permitem configurações adicionais, como por exemplo, descrição, URL, etc.
 
-![criar um projeto](config-avan.png)
+![criar um projeto](config_avan.png)
 
 Por padrão, a criação de um novo projeto irá definir você como administrador do projeto, independentemente de ter copiado um projeto, usado um modelo ou criado um projeto do zero. Agora você pode começar a trabalhar em seu projeto.
 
