@@ -17,12 +17,12 @@ Esta seção da documentação tem o objetivo de ajudá-lo a começar a operar a
 | ------------------------------------------------------- | :----------------------------------------------------------- |
 | [Introdução ao OpenProject](openproject-introdução)     | Informações gerais sobre a plataforma OpenProject.           |
 | [Login e autenticação](login-e-autenticação)            | Como fazer o login e autentica-lo.                           |
-| [Criar um projeto](projeto)                             | Como criar e configurar um novo projeto?                     |
-| [Convidar membros para o projeto](convidar-membros)     | Como convidar novos membros?                                 |
+| [Criar um projeto](projeto)                             | Como criar e configurar um novo projeto.                     |
+| [Convidar membros para o projeto](convidar-membros)     | Como convidar novos membros.                                 |
 | [Pacotes de trabalho](pacotes-de-trabalho-int)          | Como criar e editar pacotes de trabalho.                     |
-| [Gráficos de Gantt](graficos-de-gantt)                  | Como trabalhar com gráficos de Gantt.                         |
+| [Gráficos de Gantt](graficos-de-gantt)                  | Como trabalhar com gráficos de Gantt.                        |
 | [Tabelas](tabelas-int)                                  | Como trabalhar com tabelas interativas.                      |
-| [Minha conta](minha-conta)                              | Como configurar minha conta?                                 |
+| [Minha conta](minha-conta)                              | Como configurar minha conta.                                 |
 | [Minha página](minha-página)                            | Como visualizar informações pessoais e dashboard.            |
 | [Plugin BENCHMARKING e CDIO](plugin-benchmarking-cdio)  | Como trabalhar com o plugin do projeto.                      |
 
