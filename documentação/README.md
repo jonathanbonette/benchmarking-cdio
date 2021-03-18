@@ -1,5 +1,5 @@
 <table align="center"><tr><td align="center" width="9999"><br>
-<img src="../imagens/logo.png" align="center" width="150" alt="Logo IFSC">
+<img src="logo.png" align="center" width="150" alt="Logo IFSC">
 
 # GUIA: PLATAFORMA BENCHMARKING & CDIO
 
