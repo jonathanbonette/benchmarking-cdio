@@ -6,7 +6,7 @@
 <b>Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina<br>
 Campus Florianópolis<br></b>
 http://sites.florianopolis.ifsc.edu.br/cdio/<br>
-http://encurtador.com.br/jsDJ5<br><br>
+http://encurtador.com.br/jsDJ5<br>
 </td></tr></table>
 
 <h2 align="center">Justificativa do Projeto</h2>
