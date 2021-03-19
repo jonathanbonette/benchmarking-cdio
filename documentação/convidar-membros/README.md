@@ -5,7 +5,7 @@ Para ver um projeto e trabalhar nele, você precisa ser membro de um projeto. Po
 | Tópico                                                       | Conteúdo                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Ver membros](#ver-membros)                                  | Ver a lista de membros do seu projeto.                       |
-| [Adicionar membros existentes](#adicionar-membros-existentes)| Adicionar membros existentes, grupos ou Add existing users, groups or usuarios fixos ao projeto.|
+| [Adicionar membros existentes](#adicionar-membros-existentes)| Adicionar membros existentes, grupos ou usuarios fixos ao projeto.|
 | [Convidar novos membros](#convidar-novos-membros)            | Convidar novos membros para se juntar a um projeto.          |
 | [Grupos como membros de projeto](#grupos-como-membros-de-projeto) | Entender os efeitos de adicionar grupos como membros do projeto.  |
 | [Usuários fixos como membros de projeto](#usuários-fixos-como-membros-de-projeto) | Entender como diferenciar entre usuários comuns e usuários fixos. |
@@ -26,7 +26,7 @@ Na lista de membros você terá uma visão geral dos membros atuais deste projet
 
 Clique no botão verde **+ Membro** no canto superior direito.
 
-Digite o nome do usuário, usuário fixo ou grupo que deseja adicionar. Você também pode escolher vários membros de uma vez. **Atribua uma função** ao(s) novo(s) membr (s) e clique no botão azul **Adicionar**.
+Digite o nome do usuário, usuário fixo ou grupo que deseja adicionar. Você também pode escolher vários membros de uma vez. **Atribua uma função** ao(s) novo(s) membro(s) e clique no botão azul **Adicionar**.
 
 Observe que você terá que clicar no nome do novo membro ou pressionar a tecla **Enter** antes de clicar no botão **Adicionar**.
 
