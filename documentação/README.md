@@ -9,7 +9,7 @@ http://sites.florianopolis.ifsc.edu.br/cdio/<br>
 http://encurtador.com.br/jsDJ5<br><br>
 </td></tr></table>
 
-Esta seção da documentação tem o objetivo de ajudá-lo a começar a operar a plataforma **Benchmarking & CDIO**, desenvolvida através do Projeto de Pesquisa ***Benchmarking CDIO***. Vamos cobrir tudo o que você precisa saber, autenticação, configurações da plataforma, manipulação de resultados e a visuaização dos resultados com a proposta do projeto.
+Esta seção da documentação tem o objetivo de ajudá-lo a começar a operar a plataforma **Benchmarking & CDIO**, desenvolvida através do Projeto de Pesquisa ***Benchmarking CDIO***. Vamos cobrir tudo o que você precisa saber, autenticação, configurações da plataforma, manipulação de resultados e a visualização dos resultados com a proposta do projeto.
 
 ## Tópicos
 
