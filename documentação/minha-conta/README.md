@@ -68,6 +68,6 @@ Além disso, você pode adicionr uma foto pessoal, selecione a imagem no seu com
 
 ![perfil](imagem_perfil.png)
 
-# Alterar senha e Token de acesso
+## Alterar senha e Token de acesso
 
 Por padrão essas duas opções não precisam de configuração, visto que a senha é a mesma da instituição que o usuário pertence, então a troca de senha apenas poderá ser feita no site da instituição.
