@@ -1,6 +1,6 @@
 # Minha Página
 
-Minha página é o seu ** painel pessoal ** com importantes informações gerais do projeto, como relatórios de pacotes de trabalho, notícias, tempo gasto ou um calendário. Ele pode ser configurado de acordo com suas necessidades específicas.
+Minha página é o seu **painel pessoal** com importantes informações gerais do projeto, como relatórios de pacotes de trabalho, notícias, tempo gasto ou um calendário. Ele pode ser configurado de acordo com suas necessidades específicas.
 
 | Tópico                                          | Conteúdo                                   |
 | ----------------------------------------------- | ------------------------------------------ |
