@@ -60,4 +60,19 @@ Vemos que aqui existem apenas 2 alunos a serem avaliados, pois vendo nas configu
 
 ![Membros](plugin_membros_view.png)
 
-Escolhendo o avaliado, seguimos para a próxima etapa.
+Escolhendo o avaliado (neste caso o grupo como um todo), seguimos para a próxima etapa, onde precisaremos dar notas de 1 a 5 em todas as perguntas nas etapas de **CONCEIVE**, **DESIGN**, **IMPLEMENT** e **OPERATE**.
+
+![Avaliar](plugin_avaliacao.png)
+
+Logo após de respondida cada etapa, é preciso salvar, clicando no botão **Salvar** abaixo de cada questionário. Se for da preferência de cada professor, o questionário poderá ser acessado posteriormente para a continuação da avaliação, é possivel ver a última vez que o questionário foi salvo apenas entrando novamente na etapa de avaliação. 
+
+![Salvar](plugin_continuar.png)
+
+Após todas os questionários serem respondidos pelo avaliador, a nota poderá ser consolidada
+
+
+
+
+
+
+
