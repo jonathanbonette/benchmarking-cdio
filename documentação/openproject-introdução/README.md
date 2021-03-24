@@ -1,3 +1,4 @@
+![OpenProject Logo](op_logo.png)
 # Por que o OpenProject?
 
 Decidimos utilizar a plataforma por alguns motivos, dentre eles:
