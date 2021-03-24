@@ -7,7 +7,7 @@ Decidimos utilizar a plataforma por alguns motivos, dentre eles:
 
 OpenProject é um software de código aberto e gratuito. O código-fonte é publicado no GitHub e está sendo continuamente desenvolvido e aprimorado pela equipe do OpenProject junto com uma comunidade ativa de código aberto. Isso nos possibilitou trabalhar com uma ferramenta gratuita e muito poderosa em questão de acessibilidade e opção, visto que muitas funcionalidades do OpenProject estão relacionadas com nossa área de trabalho, como, ferramentas relacionadas a trabalhos em grupo e avaliação.
 
-### Pprivacidade de dados
+### Privacidade de dados
 
 O OpenProject está em conformidade com os regulamentos europeus e nacionais de proteção de dados. Dados seguros - processos seguros: a proteção de dados pessoais é para OpenProject mais do que apenas um requisito legal.
 
@@ -31,7 +31,7 @@ Graças à natureza do software livre e de código aberto, a comunidade OpenProj
 
 ### Desenvolvimento contínuo para atualizações regulares
 
-O OpenProject junto com a comunidade tem função de melhorar o produto continuamente. Conseqüentemente, o OpenProject lançaatualizações anuais gratuitas. O feedback dos usuários é levado em consideração de forma transparente para o futuro roteiro.
+O OpenProject junto com a comunidade tem função de melhorar o produto continuamente. Consequentemente, o OpenProject lança atualizações anuais gratuitas. O feedback dos usuários é levado em consideração de forma transparente para o futuro roteiro.
 
 ### Software baseado na Web para colaboração interdisciplinar
 
