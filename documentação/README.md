@@ -28,12 +28,10 @@ Esta seção da documentação tem o objetivo de ajudá-lo a começar a operar a
 
 ## 5 etapas rápidas para começar
 
-Assista a um breve vídeo de introdução de 3 minutos para começar a usar o OpenProject em 5 etapas rápidas:
-
 1. Crie um projeto
 2. Adicionar membros da equipe
 3. Crie pacotes de trabalho
 4. Crie um plano de projeto
 5. Filtre, agrupe e crie relatórios
 
-<video src="https://www.openproject.org/wp-content/uploads/2021/03/OpenProject-Getting-started.mp4" type="video/mp4" controls="" style="width:100%"></video> **baixar o vídeo*
+Para ver como seguir as etapas básicas acesse o [link](benchmarking-cdio/documentação/primeiros-passos/#5-etapas-rápidas-para-começar).
