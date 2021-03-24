@@ -50,7 +50,7 @@ Clique nos pontos ao lado do título e arraste-o para o novo local.
 
 Se você clicar nos pontos no canto inferior direito de um widget, poderá alterar o tamanho de um widget puxando o widget para a esquerda e para a direita, para cima e para baixo com o mouse.
 
-![alterar tamanho widget](alterar tamanho-widget-1572946246580.gif)
+![alterar tamanho widget](change-size-widget-1572946246580.gif)
 
 ### Configure a visualização de um widget (para tabelas de pacote de trabalho)
 
